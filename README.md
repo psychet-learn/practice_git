@@ -1,1 +1,1 @@
-# practice_git
+# 깃 사용법
